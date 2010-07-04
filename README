@@ -1,0 +1,9 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=3140
+
+Most KDE users are familiar with the classic Obsidian Coast colorscheme-- dark with blue selection highlights. I ported it to GVim using the excellently commented lucius colorscheme. I included some extra colors from Kate's schemata as well.
+
+Updated version: http://github.com/dbbolton/themes/blob/master/obsidian.vim
+
+or
+
+http://github.com/dbbolton/obsidian-extra/blob-master/obsidian.vim
